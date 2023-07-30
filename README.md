@@ -118,7 +118,7 @@ After conducting Exploratory Data Analysis (EDA), data pre-processing, and data 
 * Focus on streamlining online experiences to increase conversions and sales value for online reservations.
 * Restructure the Gold plan to make it more attractive to customers and review procedures for the Silver plan to reduce insurance claims.
 * Implement marketing plans to attract more customers for American and Europe tours, possibly through discounts or special offers.
-### Key Performance Indicators (KPIs) of Insurance Claims:
+### Key Performance Indicators (KPIs) of Insurance Claims
 * Increase customer satisfaction to drive higher revenue.
 * Combat fraudulent transactions by deploying measures to detect and prevent fraudulent claims.
 * Optimize claims recovery methods to efficiently handle and process claims.
