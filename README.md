@@ -1,4 +1,5 @@
-## Customer Segmentation and Insurance Claim Prediction Using Data Mining Techniques
+# Customer Segmentation and Insurance Claim Prediction Using Data Mining Techniques
+
 #### A leading bank wants to develop a customer segmentation to give promotional offers based on credit card usage, and a health insurance firm wants to identify the reason for higher claim frequency
 ### Brief Overview
 * Collected, cleaned, and analyzed data from various sources, ensuring data integrity and quality for consulting projects
